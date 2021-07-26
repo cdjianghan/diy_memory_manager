@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mazijie/Documents/GitHub/garbage_collector/main.cpp
+iostream
+-
+map
+-
+vector
+-
+csetjmp
+-
+

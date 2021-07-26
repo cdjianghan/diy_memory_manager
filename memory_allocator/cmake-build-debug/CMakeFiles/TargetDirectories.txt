@@ -1,0 +1,3 @@
+/Users/mazijie/Documents/GitHub/memory_allocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mazijie/Documents/GitHub/memory_allocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mazijie/Documents/GitHub/memory_allocator/cmake-build-debug/CMakeFiles/garbage_collector.dir
